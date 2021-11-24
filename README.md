@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- :zap: I am interested in machine learning, data science and problem solving.
-- :earth_africa: I am currently learning flutter, django.
+- :zap: I am interested in Machine Learning, building backend and solving problems.
+- :earth_africa: I am currently looking for internship opportunites in backend development.
 - 📫 Connect with me on: 
   - [LinkedIn](https://www.linkedin.com/in/harshit-singh-2000/)
   - [CodeForces](https://codeforces.com/profile/hrshit2000)
